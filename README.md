@@ -1,5 +1,5 @@
 # Week6_Midterm
-<<<<<<< HEAD
+
 
 Renting house advantages
 
