@@ -1,6 +1,7 @@
 # Week6_Midterm
+<<<<<<< HEAD
 
-Renting house vs Buying house
+Renting house advantages
 
 Fewer (if any) maintenance costs
 No down payment required (less deposit)
@@ -12,3 +13,6 @@ Some utility bills may be included
 “Free” amenities such as pool, gym, security
 Money can be used for other, more profitable investments
 Can’t be foreclosed on
+
+
+
